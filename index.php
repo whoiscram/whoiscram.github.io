@@ -25,7 +25,7 @@ if ($type == 'source.chargeable') {
         CURLOPT_HTTPHEADER => [
             "Accept: application/json",
             //Input your encoded API keys below for authorization
-            "Authorization:",
+            "Authorization: Basic cGtfdGVzdF9GeVFmQ1RTdUFkY0tuTlVCUmp4TVMzSmg6 ",
             "Content-Type: application/json"
         ],
     ]);
