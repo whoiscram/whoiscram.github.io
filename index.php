@@ -41,6 +41,7 @@ if ($type == 'source.chargeable') {
         echo "cURL Error #:" . $err;
         //Log the response
         $fp = file_put_contents('test.log', $err);
+        echo $fp;
     } else {
         echo $response;
     }
