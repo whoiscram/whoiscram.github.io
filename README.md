@@ -1,2 +1,3 @@
 # whoiscram.github.io
-Omsim Kiko
+Sample Static Deployment
+
